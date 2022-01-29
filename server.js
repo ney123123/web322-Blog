@@ -73,6 +73,7 @@ blogService.initialize().then(
 * I declare that this assignment is my own work in accordance with Seneca Academic Policy.
 * No part of this assignment has been copied manually or electronically from any other source
 * (including web sites) or distributed to other students. *
-* Name: Pun Kam Keung Student ID: 139286207 Date: 18/01/22 *
-* Online (Heroku) URL: https://obscure-basin-74674.herokuapp.com/ 
+* Name: Pun Kam Keung Student ID: 139286207 Date: 29/01/22 *
+* Online (Heroku) URL: https://still-journey-99913.herokuapp.com/
+* github repository URL :https://github.com/ney123123/web322-newapp.git
 ************************************************************************ ********/
