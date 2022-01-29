@@ -53,11 +53,11 @@ app.get("/posts", (req, res) => {
     //res.sendFile(__dirname + "/data/posts.json");
 });
 app.get('/about', function(req, res){ 
-    res.sendFile("/view/about.html");
+    res.sendFile(__dirname +"/view/about.html");
     
 }); 
 app.use((req, res) => {
-    res.status(404).sendFile("/view/404.html");
+    res.status(404).sendFile(__dirname +"/view/404.html");
   });
 
 // setup http server to listen on HTTP_PORT
